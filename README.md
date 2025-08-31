@@ -35,6 +35,4 @@ class FUG:
     @property
     def gaming(self):
         return ["Valorant (I Don't RageQuit)", "PUBG Mobile"]
-        
-        
-        ```
+```
